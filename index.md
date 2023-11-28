@@ -1,8 +1,8 @@
-#Manifesto for digital editions
+# Manifesto for digital editions
 Published by Christiane Fritze 
-onM arch 11, 2022
+on March 11, 2022
 
-##Preliminary remarks
+## Preliminary remarks
 
 [1] Digital editions make our cultural and intellectual heritage visible, accessible and usable through indexing and reproduction. Editions are a core task of the sciences and form the basis for further research.
 
@@ -14,7 +14,7 @@ onM arch 11, 2022
 
 [5] The challenges of the digital edition are seen as a task and opportunity. They can be described from four perspectives: the methodological framework, organizational issues, factual requirements and the social dimension of collaborative, interdisciplinary work.
 
-##Methodological framework
+## Methodological framework
 
 [6] The variety of subjects and editorial goals requires a wide range of procedures and competencies to be applied by those involved in the preparation of editions. The scientific methods of editing stand in a long tradition of development, source criticism, text criticism and text constitution in the respective subjects. The possibilities of digitization and the use of computers have led to an enormous further development of methods and to an expansion of possibilities in the development and processing of cultural heritage.
 
@@ -28,7 +28,7 @@ onM arch 11, 2022
 
 [11] The edition is the compiled and organized knowledge of the tradition in the form of the "data of the edition". At the same time, the edition is also published and thus provides a media processing with which the knowledge of the edition is communicated to a scientific, but also to a broader public audience. In addition to these two modes of existence and in the further use of the data, editorial knowledge also takes the form of processing, algorithms and software. What all these parts of the edition have in common is that they are based on the explicit modeling of our knowledge of our cultural and intellectual heritage. This modeling work is important editorial work.
 
-##Organizational dimension
+## Organizational dimension
 
 [12] Digital editions are organized and realized in the form of projects. As such, digital editions go through the classic phases of a project from planning to implementation and completion. The project character, which is intended to be completed, is in tension with the long-term perspectives in which digital editions do not end with the publication, but must be thought and planned more openly, further and comprehensively as an ongoing process. This applies to the progressive processing and enrichment inside the editions as well as the ability to connect to the outside world. Editorial responsibility does not end with the first publication. Digital data and work practices offer the possibility of general participation in the knowledge process. The prerequisite for this is the obligation
 
